@@ -44,6 +44,7 @@ def step1_import_metadata():
 								parameter_details['parameter'] = row[0]
 								parameter_details['file_path'] = csv_file_path
 								parameter_details['row_no'] = row_no
+								parameter_details['full_csv_parsed'] = 0
 								break
 
 						else:
