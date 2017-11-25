@@ -3,15 +3,9 @@ import sys
 import os
 import sqlite3 as lite
 import csv
-import requests
-import time
-from BeautifulSoup import BeautifulSoup
 import dataset
-import time
-import datetime
 import json
-from datetime import datetime
-#from bs4 import BeautifulSoup
+import string
 root_raw_data_folder = '/home/thej/code/cpcb/data/raw'
 
 
@@ -83,11 +77,74 @@ def step1_import_metadata():
 			else:
 				print "SKIPPING"
 
-	#long_name
-	#file
+def step2_import_values():
+	db = dataset.connect('sqlite:////home/thej/code/cpcb/data/db/data.sqlite3')	
+	metadata_table = db['metadata']
+	parameters_table = db['parameters']
+	data_table = db['data']	
+	db.begin()
+	for metadata in metadata_table:
+		full_csv_parsed = metadata['full_csv_parsed']
+		if full_csv_parsed == 1:
+			continue
+
+
+		parameter_full_name 	= metadata['parameter']
+		print str(parameter_full_name)
+		parameters_data 		= parameters_table.find_one(full_name=parameter_full_name)
+		#print str(parameters_data)
+
+		parameter_short_name 	= parameters_data['short_name']
+		station 	= metadata['station']
+		file_path 	 = metadata['file_path']
+		start_row_no		 = metadata['row_no']
+		row_no = 0
+		print str(file_path)
+
+		with open(file_path, "r") as csv_file:
+			reader = csv.reader(csv_file)			
+			for row in reader:
+				#print row
+				row_no = row_no + 1
+				if row_no < start_row_no:
+					continue
+				else:
+					print str(row)
+					data = {}
+					from_time = str(row[1]).strip()
+					from_date = str(row[3]).strip()
+
+					if from_time =="" or from_date == "":
+						continue
+					data["from_time"]=from_time
+					data["date"]=from_date
+
+					data["station"]= station
+					data["year"]=str((str(row[3]).split("/"))[2])
+					data[parameter_short_name]=str(row[4]).strip()
+
+					key = data["station"]+"_"+data["date"]+"_"+data["from_time"]
+					key = key.replace(':', '_')
+					key = key.replace('/', '_')
+					data['key'] = key
+					print str(data)
+					data_table.upsert(data, ['key'])
+					print "---------------------------------------------------"
+				#end of for loop
+		#end of file - csv closed	 
+		
+		#lets commit things
+		metadata['full_csv_parsed']=1
+		metadata_table.update(metadata,['id'])
+		db.commit()
+		print "*************************************************************"
+		
+
+
+
 
 def main():
-	step1_import_metadata()
+	step2_import_values()
 
 if __name__ == "__main__":
 	main()
