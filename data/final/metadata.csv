@@ -1,0 +1,388 @@
+id,row_no,avg_period,date_from,time_from,full_csv_parsed,station,date_to,time_to,parameter,file_path
+1,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_BTM_2/no.csv
+2,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2017_BTM_2/rh.csv
+3,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_BTM_2/so2.csv
+4,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_BTM_2/co.csv
+5,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Ozone(O3),/home/thej/code/cpcb/data/raw/2017_BTM_2/o3.csv
+6,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2017_BTM_2/pm25.csv
+7,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_BTM_2/nox.csv
+8,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2017_BTM_2/ws.csv
+9,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2017_BTM_2/wd.csv
+10,19,4 Hours,01/05/2017,12:00 AM,1,BTM,31/08/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_BTM_2/no2.csv
+11,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/no.csv
+12,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/rh.csv
+13,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/so2.csv
+14,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/co.csv
+15,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/pm25.csv
+16,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/nox.csv
+17,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Methane(CH4),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/ch4.csv
+18,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Ammonia(NH3),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/nh3.csv
+19,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_PEENYA_2/no2.csv
+20,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_BTM_1/no.csv
+21,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2017_BTM_1/rh.csv
+22,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_BTM_1/so2.csv
+23,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_BTM_1/co.csv
+24,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Ozone(O3),/home/thej/code/cpcb/data/raw/2017_BTM_1/o3.csv
+25,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2017_BTM_1/pm25.csv
+26,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_BTM_1/nox.csv
+27,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2017_BTM_1/ws.csv
+28,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2017_BTM_1/wd.csv
+29,19,4 Hours,01/01/2017,12:00 AM,1,BTM,30/04/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_BTM_1/no2.csv
+30,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/benzene.csv
+31,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/no.csv
+32,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/rh.csv
+33,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/toluene.csv
+34,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/so2.csv
+35,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/co.csv
+36,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Ozone(O3),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/o3.csv
+37,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/pm25.csv
+38,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/nox.csv
+39,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/ws.csv
+40,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/wd.csv
+41,19,4 Hours,01/01/2017,12:00 AM,1,BWSSB,30/04/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_BWSSB_1/no2.csv
+42,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/temp.csv
+43,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/no.csv
+44,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Solar Radiation(SR),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/sr.csv
+45,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/rh.csv
+46,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/so2.csv
+47,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/co.csv
+48,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/nox.csv
+49,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/ws.csv
+50,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Ambient Temperature(AT),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/at.csv
+51,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/pm10.csv
+52,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/wd.csv
+53,19,4 Hours,01/09/2015,12:00 AM,1,SGHALLI,31/12/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_SGHALLI_3/no2.csv
+54,19,4 Hours,01/01/2017,12:00 AM,1,Peenya,30/04/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/no.csv
+55,19,4 Hours,01/01/2017,12:00 AM,1,Peenya,30/04/2017,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/rh.csv
+56,19,4 Hours,01/01/2017,12:00 AM,1,Peenya,30/04/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/so2.csv
+57,19,4 Hours,01/01/2017,12:00 AM,1,Peenya,30/04/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/co.csv
+58,19,4 Hours,01/01/2017,12:00 AM,1,Peenya,30/04/2017,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/pm25.csv
+59,19,4 Hours,01/05/2017,12:00 AM,1,Peenya,31/08/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/nox.csv
+60,19,4 Hours,01/01/2017,12:00 AM,1,Peenya,30/04/2017,11:45 PM,Methane(CH4),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/ch4.csv
+61,19,4 Hours,01/01/2017,12:00 AM,1,Peenya,30/04/2017,11:45 PM,Ammonia(NH3),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/nh3.csv
+62,19,4 Hours,01/01/2017,12:00 AM,1,Peenya,30/04/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_PEENYA_1/no2.csv
+63,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/no.csv
+64,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Solar Radiation(SR),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/sr.csv
+65,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/rh.csv
+66,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/so2.csv
+67,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/co.csv
+68,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/nox.csv
+69,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/ws.csv
+70,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Ambient Temperature(AT),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/at.csv
+71,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/pm10.csv
+72,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/wd.csv
+73,19,4 Hours,01/05/2016,12:00 AM,1,SGHALLI,31/08/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_SGHALLI_2/no2.csv
+74,19,4 Hours,01/09/2016,12:00 AM,1,CRS,31/12/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_CRS_3/no.csv
+75,19,4 Hours,01/09/2016,12:00 AM,1,CRS,31/12/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_CRS_3/so2.csv
+76,19,4 Hours,01/09/2016,12:00 AM,1,CRS,31/12/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_CRS_3/co.csv
+77,19,4 Hours,01/09/2016,12:00 AM,1,CRS,31/12/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_CRS_3/nox.csv
+78,19,4 Hours,01/09/2016,12:00 AM,1,CRS,31/12/2016,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2016_CRS_3/pm10.csv
+79,19,4 Hours,01/09/2016,12:00 AM,1,CRS,31/12/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_CRS_3/no2.csv
+80,19,4 Hours,01/09/2015,12:00 AM,1,CRS,31/12/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_CRS_3/no.csv
+81,19,4 Hours,01/09/2015,12:00 AM,1,CRS,31/12/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_CRS_3/so2.csv
+82,19,4 Hours,01/09/2015,12:00 AM,1,CRS,31/12/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_CRS_3/co.csv
+83,19,4 Hours,01/09/2015,12:00 AM,1,CRS,31/12/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_CRS_3/nox.csv
+84,19,4 Hours,01/09/2015,12:00 AM,1,CRS,31/12/2015,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2015_CRS_3/pm10.csv
+85,19,4 Hours,01/09/2015,12:00 AM,1,CRS,31/12/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_CRS_3/no2.csv
+86,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/no.csv
+87,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/rh.csv
+88,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/so2.csv
+89,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/co.csv
+90,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Ozone(O3),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/o3.csv
+91,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/pm25.csv
+92,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/nox.csv
+93,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/ws.csv
+94,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/wd.csv
+95,19,4 Hours,01/09/2016,12:00 AM,1,BWSSB,31/12/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_BWSSB_3/no2.csv
+96,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/no.csv
+97,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Solar Radiation(SR),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/sr.csv
+98,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/rh.csv
+99,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/so2.csv
+100,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/co.csv
+101,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/nox.csv
+102,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/ws.csv
+103,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Ambient Temperature(AT),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/at.csv
+104,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/pm10.csv
+105,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/wd.csv
+106,19,4 Hours,01/01/2017,12:00 AM,1,SGHALLI,30/04/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_SGHALLI_1/no2.csv
+107,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2016_BTM_1/temp.csv
+108,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2016_BTM_1/benzene.csv
+109,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_BTM_1/no.csv
+110,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_BTM_1/rh.csv
+111,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2016_BTM_1/toluene.csv
+112,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_BTM_1/so2.csv
+113,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_BTM_1/co.csv
+114,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2016_BTM_1/pm25.csv
+115,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_BTM_1/nox.csv
+116,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2016_BTM_1/pressure.csv
+117,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2016_BTM_1/ethyl.csv
+118,19,4 Hours,01/01/2016,12:00 AM,1,BTM,30/04/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_BTM_1/no2.csv
+119,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Non Methane Hydrocarbon(NMHC),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/nmhc.csv
+120,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/temp.csv
+121,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/no.csv
+122,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Solar Radiation(SOLAR RAD),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/sr.csv
+123,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/rh.csv
+124,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/so2.csv
+125,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Total Hydrocarbon(THC),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/thc.csv
+126,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/co.csv
+127,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/pm25.csv
+128,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/nox.csv
+129,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Methane(CH4),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/ch4.csv
+130,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Wind Speed (WIND SPEED S),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/ws.csv
+131,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/pressure.csv
+132,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Wind Direction(WIND DIR S),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/wd.csv
+133,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Ammonia(NH3),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/nh3.csv
+134,19,4 Hours,01/01/2015,12:00 AM,1,Peenya,30/04/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_PEENYA_1/no2.csv
+135,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/no.csv
+136,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Solar Radiation(SR),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/sr.csv
+137,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/rh.csv
+138,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/so2.csv
+139,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/co.csv
+140,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/nox.csv
+141,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/ws.csv
+142,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Ambient Temperature(AT),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/at.csv
+143,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/pm10.csv
+144,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/wd.csv
+145,19,4 Hours,01/01/2016,12:00 AM,1,SGHALLI,30/04/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_SGHALLI_1/no2.csv
+146,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Non Methane Hydrocarbon(NMHC),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/nmhc.csv
+147,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/temp.csv
+148,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/no.csv
+149,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Solar Radiation(SOLAR RAD),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/sr.csv
+150,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/rh.csv
+151,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/so2.csv
+152,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Total Hydrocarbon(THC),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/thc.csv
+153,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/co.csv
+154,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/pm25.csv
+155,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/nox.csv
+156,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Methane(CH4),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/ch4.csv
+157,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Wind Speed (WIND SPEED S),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/ws.csv
+158,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/pressure.csv
+159,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Wind Direction(WIND DIR S),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/wd.csv
+160,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Ammonia(NH3),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/nh3.csv
+161,19,4 Hours,01/09/2015,12:00 AM,1,Peenya,31/12/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_PEENYA_3/no2.csv
+162,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/benzene.csv
+163,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/no.csv
+164,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/rh.csv
+165,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/toluene.csv
+166,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/so2.csv
+167,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/co.csv
+168,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/pm25.csv
+169,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/nox.csv
+170,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/ws.csv
+171,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/wd.csv
+172,19,4 Hours,01/05/2017,12:00 AM,1,BWSSB,31/08/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_BWSSB_2/no2.csv
+173,19,4 Hours,01/05/2017,12:00 AM,1,CRS,31/08/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_CRS_2/no.csv
+174,19,4 Hours,01/05/2017,12:00 AM,1,CRS,31/08/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_CRS_2/so2.csv
+175,19,4 Hours,01/05/2017,12:00 AM,1,CRS,31/08/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_CRS_2/co.csv
+176,19,4 Hours,01/05/2017,12:00 AM,1,CRS,31/08/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_CRS_2/nox.csv
+177,19,4 Hours,01/05/2017,12:00 AM,1,CRS,31/08/2017,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2017_CRS_2/pm10.csv
+178,19,4 Hours,01/05/2017,12:00 AM,1,CRS,31/08/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_CRS_2/no2.csv
+179,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Non Methane Hydrocarbon(NMHC),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/nmhc.csv
+180,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/temp.csv
+181,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/no.csv
+182,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/rh.csv
+183,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/so2.csv
+184,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Total Hydrocarbon(THC),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/thc.csv
+185,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/co.csv
+186,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/nox.csv
+187,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Wind Speed (WIND SPEED S),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/ws.csv
+188,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Ammonia(NH3),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/nh3.csv
+189,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Methane(CH4),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/ch3.csv
+190,19,4 Hours,01/05/2016,12:00 AM,1,Peenya,31/08/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_PEENYA_2/no2.csv
+191,19,4 Hours,01/01/2017,12:00 AM,1,CRS,30/04/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_CRS_1/no.csv
+192,19,4 Hours,01/01/2017,12:00 AM,1,CRS,30/04/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_CRS_1/so2.csv
+193,19,4 Hours,01/01/2017,12:00 AM,1,CRS,30/04/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_CRS_1/co.csv
+194,19,4 Hours,01/01/2017,12:00 AM,1,CRS,30/04/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_CRS_1/nox.csv
+195,19,4 Hours,01/01/2017,12:00 AM,1,CRS,30/04/2017,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2017_CRS_1/pm10.csv
+196,19,4 Hours,01/01/2017,12:00 AM,1,CRS,30/04/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_CRS_1/no2.csv
+197,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_BTM_3/no.csv
+198,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_BTM_3/rh.csv
+199,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_BTM_3/so2.csv
+200,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_BTM_3/co.csv
+201,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Ozone(O3),/home/thej/code/cpcb/data/raw/2016_BTM_3/o3.csv
+202,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2016_BTM_3/pm25.csv
+203,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_BTM_3/nox.csv
+204,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2016_BTM_3/ws.csv
+205,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2016_BTM_3/wd.csv
+206,19,4 Hours,01/09/2016,12:00 AM,1,BTM,31/12/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_BTM_3/no2.csv
+207,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/temp.csv
+208,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/benzene.csv
+209,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/no.csv
+210,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/rh.csv
+211,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/toluene.csv
+212,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/so2.csv
+213,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/co.csv
+214,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/nox.csv
+215,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/mp25.csv
+216,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/pressure.csv
+217,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/ethyl.csv
+218,19,4 Hours,01/09/2015,12:00 AM,1,BWSSB,31/12/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_BWSSB_3/no2.csv
+219,19,4 Hours,01/05/2016,12:00 AM,1,CRS,31/08/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_CRS_2/no.csv
+220,19,4 Hours,01/05/2016,12:00 AM,1,CRS,31/08/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_CRS_2/so2.csv
+221,19,4 Hours,01/05/2016,12:00 AM,1,CRS,31/08/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_CRS_2/co.csv
+222,19,4 Hours,01/05/2016,12:00 AM,1,CRS,31/08/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_CRS_2/nox.csv
+223,19,4 Hours,01/05/2016,12:00 AM,1,CRS,31/08/2016,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2016_CRS_2/pm10.csv
+224,19,4 Hours,01/05/2016,12:00 AM,1,CRS,31/08/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_CRS_2/no2.csv
+225,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_BTM_1/temp.csv
+226,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2015_BTM_1/benzene.csv
+227,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_BTM_1/no.csv
+228,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_BTM_1/rh.csv
+229,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2015_BTM_1/toluene.csv
+230,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_BTM_1/co.csv
+231,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_BTM_1/pm25.csv
+232,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_BTM_1/nox.csv
+233,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_BTM_1/pressure.csv
+234,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_BTM_1/s02.csv
+235,19,4 Hours,01/01/2015,12:00 AM,1,BTM,30/04/2015,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2015_BTM_1/ethyl.csv
+236,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/temp.csv
+237,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/benzene.csv
+238,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/no.csv
+239,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/rh.csv
+240,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/toluene.csv
+241,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/so2.csv
+242,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/co.csv
+243,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/pm25.csv
+244,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/nox.csv
+245,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/pressure.csv
+246,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/ethyl.csv
+247,19,4 Hours,01/05/2015,12:00 AM,1,BWSSB,31/08/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_BWSSB_2/no2.csv
+248,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_BTM_2/temp.csv
+249,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2015_BTM_2/benzene.csv
+250,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_BTM_2/no.csv
+251,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_BTM_2/rh.csv
+252,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2015_BTM_2/toluene.csv
+253,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_BTM_2/so2.csv
+254,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_BTM_2/co.csv
+255,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_BTM_2/pm25.csv
+256,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_BTM_2/nox.csv
+257,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_BTM_2/pressure.csv
+258,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2015_BTM_2/ethyl.csv
+259,19,4 Hours,01/05/2015,12:00 AM,1,BTM,31/08/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_BTM_2/no2.csv
+260,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/temp.csv
+261,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/benzene.csv
+262,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/no.csv
+263,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/rh.csv
+264,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/toluene.csv
+265,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/so2.csv
+266,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/co.csv
+267,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Ozone(O3),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/o3.csv
+268,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/pm25.csv
+269,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/nox.csv
+270,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/ws.csv
+271,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/pressure.csv
+272,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/wd.csv
+273,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/ethyl.csv
+274,19,4 Hours,01/05/2016,12:00 AM,1,BWSSB,31/08/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_BWSSB_2/no2.csv
+275,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2016_BTM_2/temp.csv
+276,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2016_BTM_2/benzene.csv
+277,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_BTM_2/no.csv
+278,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_BTM_2/rh.csv
+279,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2016_BTM_2/toluene.csv
+280,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_BTM_2/so2.csv
+281,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_BTM_2/co.csv
+282,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_BTM_2/nox.csv
+283,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2016_BTM_2/ws.csv
+284,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2016_BTM_2/pressure.csv
+285,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2016_BTM_2/wd.csv
+286,19,4 Hours,01/05/2016,12:00 AM,1,BTM,31/08/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_BTM_2/no2.csv
+287,19,4 Hours,01/01/2016,12:00 AM,1,CRS,30/04/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_CRS_1/no.csv
+288,19,4 Hours,01/01/2016,12:00 AM,1,CRS,30/04/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_CRS_1/so2.csv
+289,19,4 Hours,01/01/2016,12:00 AM,1,CRS,30/04/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_CRS_1/co.csv
+290,19,4 Hours,01/01/2016,12:00 AM,1,CRS,30/04/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_CRS_1/nox.csv
+291,19,4 Hours,01/01/2016,12:00 AM,1,CRS,30/04/2016,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2016_CRS_1/pm10.csv
+292,19,4 Hours,01/01/2016,12:00 AM,1,CRS,30/04/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_CRS_1/no2.csv
+293,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_BTM_3/temp.csv
+294,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2015_BTM_3/benzene.csv
+295,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_BTM_3/no.csv
+296,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_BTM_3/rh.csv
+297,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2015_BTM_3/toluene.csv
+298,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_BTM_3/so2.csv
+299,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_BTM_3/co.csv
+300,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_BTM_3/pm25.csv
+301,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_BTM_3/nox.csv
+302,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_BTM_3/pressure.csv
+303,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2015_BTM_3/ethyl.csv
+304,19,4 Hours,01/09/2015,12:00 AM,1,BTM,31/12/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_BTM_3/no2.csv
+305,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/temp.csv
+306,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/benzene.csv
+307,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/no.csv
+308,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/rh.csv
+309,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/toluene.csv
+310,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/so2.csv
+311,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/co.csv
+312,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/pm25.csv
+313,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/nox.csv
+314,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/pressure.csv
+315,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/ethyl.csv
+316,19,4 Hours,01/01/2015,12:00 AM,1,BWSSB,30/04/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_BWSSB_1/no2.csv
+317,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/no.csv
+318,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/rh.csv
+319,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/so2.csv
+320,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/co.csv
+321,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/pm25.csv
+322,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/nox.csv
+323,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,Methane(CH4),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/ch4.csv
+324,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,Ammonia(NH3),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/nh3.csv
+325,19,4 Hours,01/09/2016,12:00 AM,1,Peenya,31/12/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_PEENYA_3/no2.csv
+326,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/no.csv
+327,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Solar Radiation(SR),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/sr.csv
+328,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/rh.csv
+329,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/so2.csv
+330,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/co.csv
+331,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/nox.csv
+332,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/ws.csv
+333,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Ambient Temperature(AT),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/at.csv
+334,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/pm10.csv
+335,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/wd.csv
+336,19,4 Hours,01/05/2017,12:00 AM,1,SGHALLI,31/08/2017,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2017_SGHALLI_2/no2.csv
+337,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/no.csv
+338,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Solar Radiation(SR),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/sr.csv
+339,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/rh.csv
+340,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/so2.csv
+341,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/co.csv
+342,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/nox.csv
+343,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Wind Speed (WS),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/ws.csv
+344,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Ambient Temperature(AT),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/at.csv
+345,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,PM10(PM10),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/pm10.csv
+346,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Wind Direction(WD),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/wd.csv
+347,19,4 Hours,01/09/2016,12:00 AM,1,SGHALLI,31/12/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_SGHALLI_3/no2.csv
+348,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Non Methane Hydrocarbon(NMHC),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/nmhc.csv
+349,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/temp.csv
+350,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/no.csv
+351,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Solar Radiation(SOLAR RAD),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/sr.csv
+352,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/rh.csv
+353,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/so2.csv
+354,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Total Hydrocarbon(THC),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/thc.csv
+355,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/co.csv
+356,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/pm25.csv
+357,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/nox.csv
+358,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Methane(CH4),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/ch4.csv
+359,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Wind Speed (WIND SPEED S),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/ws.csv
+360,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/pressure.csv
+361,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Wind Direction(WIND DIR S),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/wd.csv
+362,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Ammonia(NH3),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/nh3.csv
+363,19,4 Hours,01/05/2015,12:00 AM,1,Peenya,31/08/2015,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2015_PEENYA_2/no2.csv
+364,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Non Methane Hydrocarbon(NMHC),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/nmhc.csv
+365,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/temp.csv
+366,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/no.csv
+367,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/rh.csv
+368,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/so2.csv
+369,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Total Hydrocarbon(THC),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/thc.csv
+370,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/co.csv
+371,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/nox.csv
+372,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Methane(CH4),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/ch4.csv
+373,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Wind Speed (WIND SPEED S),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/ws.csv
+374,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Ammonia(NH3),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/nh3.csv
+375,19,4 Hours,01/01/2016,12:00 AM,1,Peenya,30/04/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_PEENYA_1/no2.csv
+376,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Benzene(Benzene),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/benzene.csv
+377,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Temperature(Temp),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/temperature.csv
+378,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Nitric Oxide(NO),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/no.csv
+379,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Relative Humidity(RH),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/rh.csv
+380,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Toluene(Toluene),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/toluene.csv
+381,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Sulfur Dioxide(SO2),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/so2.csv
+382,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Carbon Monoxide(CO),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/co.csv
+383,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,PM 2.5(PM2.5),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/pm25.csv
+384,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Oxides of Nitrogen(NOx),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/nox.csv
+385,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Bar Pressure(Bar Pressure),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/pressure.csv
+386,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Ethyl Benzene(Ethyl Benzene),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/ethyl.csv
+387,19,4 Hours,01/01/2016,12:00 AM,1,BWSSB,30/04/2016,11:45 PM,Nitrogen Dioxide(NO2),/home/thej/code/cpcb/data/raw/2016_BWSSB_1/no2.csv

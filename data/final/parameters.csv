@@ -1,0 +1,29 @@
+full_name,short_name,unit
+Nitric Oxide(NO),NO,µg/m³
+Relative Humidity(RH),RH,%
+Sulfur Dioxide(SO2),SO2,µg/m3
+Carbon Monoxide(CO),CO,mg/m3
+Ozone(O3),O3,µg/m³
+PM 2.5(PM2.5),PM25,µg/m3
+Oxides of Nitrogen(NOx),NOX,ppb
+Wind Speed (WS),WS,m/s
+Wind Direction(WD),WD,deg
+Nitrogen Dioxide(NO2),NO2,µg/m³
+Methane(CH4),CH4,µg/m3
+Ammonia(NH3),NH3,µg/m3
+Benzene(Benzene),BENZ,µg/m3
+Toluene(Toluene),TOLU,µg/m3
+Temperature(Temp),TEMP,"°C
+"
+Solar Radiation(SR),SR,"W/m2
+"
+Ambient Temperature(AT),AT,°C
+PM10(PM10),PM10,µg/m3
+Bar Pressure(Bar Pressure),PRES,mmHg
+Ethyl Benzene(Ethyl Benzene),ETHYL,µg/m³
+Non Methane Hydrocarbon(NMHC),NMHC,µg/m3
+Solar Radiation(SOLAR RAD),SR,"W/m2
+"
+Total Hydrocarbon(THC),THC,µg/m3
+Wind Speed (WIND SPEED S),WS,m/s
+Wind Direction(WIND DIR S),WD,deg
