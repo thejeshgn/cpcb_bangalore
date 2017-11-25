@@ -45,19 +45,19 @@ def step1_import_metadata():
 							row_zero_text = (row[0]).lower() 
 							if row_zero_text.startswith('station'):
 								station_text = row[0]
-								parameter_details['station'] = (station_text.split(":"))[1]
+								parameter_details['station'] = ((station_text.split(":"))[1]).strip()
 
 							if row_zero_text.startswith('avgperiod'):
 								station_text = row[0]
-								parameter_details['avg_period'] = (station_text.split(":"))[1]
+								parameter_details['avg_period'] = ((station_text.split(":"))[1]).strip()
 
 							if row_zero_text.startswith('datefrom'):
 								station_text = row[0]
-								parameter_details['date_from'] = (station_text.split(":"))[1]
+								parameter_details['date_from'] =( (station_text.split(":"))[1]).strip()
 
 							if row_zero_text.startswith('dateto'):
 								station_text = row[0]
-								parameter_details['date_to'] = (station_text.split(":"))[1]
+								parameter_details['date_to'] = ((station_text.split(":"))[1]).strip()
 
 							if row_zero_text.startswith('timefrom'):
 								station_text = row[0]
@@ -109,7 +109,7 @@ def step2_import_values():
 				if row_no < start_row_no:
 					continue
 				else:
-					print str(row)
+					#print str(row)
 					data = {}
 					from_time = str(row[1]).strip()
 					from_date = str(row[3]).strip()
@@ -119,14 +119,14 @@ def step2_import_values():
 					data["from_time"]=from_time
 					data["date"]=from_date
 
-					data["station"]= station
+					data["station"]= station.strip()
 					data["year"]=str((str(row[3]).split("/"))[2])
 					data[parameter_short_name]=str(row[4]).strip()
 
 					key = data["station"]+"_"+data["date"]+"_"+data["from_time"]
 					key = key.replace(':', '_')
 					key = key.replace('/', '_')
-					data['key'] = key
+					data['key'] = key.strip()
 					print str(data)
 					data_table.upsert(data, ['key'])
 					print "---------------------------------------------------"
@@ -144,6 +144,7 @@ def step2_import_values():
 
 
 def main():
+	#step1_import_metadata()
 	step2_import_values()
 
 if __name__ == "__main__":
