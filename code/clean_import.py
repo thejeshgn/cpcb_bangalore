@@ -148,8 +148,8 @@ def step2_import_values():
 
 
 def main():
-	step1_import_metadata()
-	#step2_import_values()
+	#step1_import_metadata()
+	step2_import_values()
 
 if __name__ == "__main__":
 	main()
