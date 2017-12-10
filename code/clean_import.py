@@ -26,54 +26,58 @@ def step1_import_metadata():
 				parameter_details = {}
 				got_parameter_header_row = False
 				got_parameter_footer_row = False
-				with open(csv_file_path, "r") as csv_file:
-					reader = csv.reader(csv_file)
-					for row in reader:
-						#print row
-						row_no = row_no + 1
-						
+				#insert if it doesnt exist
+				if parameters.find_one(file_path=csv_file_path) is None:
+					with open(csv_file_path, "r") as csv_file:
+						reader = csv.reader(csv_file)
+						for row in reader:
+							#print row
+							row_no = row_no + 1
+							
 
-						if got_parameter_header_row:
-							if row[0] != '':
-								parameter_details['parameter'] = row[0]
-								parameter_details['file_path'] = csv_file_path
-								parameter_details['row_no'] = row_no
-								parameter_details['full_csv_parsed'] = 0
-								break
+							if got_parameter_header_row:
+								if row[0] != '':
+									parameter_details['parameter'] = row[0]
+									parameter_details['file_path'] = csv_file_path
+									parameter_details['row_no'] = row_no
+									parameter_details['full_csv_parsed'] = 0
+									break
 
-						else:
-							row_zero_text = (row[0]).lower() 
-							if row_zero_text.startswith('station'):
-								station_text = row[0]
-								parameter_details['station'] = ((station_text.split(":"))[1]).strip()
+							else:
+								row_zero_text = (row[0]).lower() 
+								if row_zero_text.startswith('station'):
+									station_text = row[0]
+									parameter_details['station'] = ((station_text.split(":"))[1]).strip()
 
-							if row_zero_text.startswith('avgperiod'):
-								station_text = row[0]
-								parameter_details['avg_period'] = ((station_text.split(":"))[1]).strip()
+								if row_zero_text.startswith('avgperiod'):
+									station_text = row[0]
+									parameter_details['avg_period'] = ((station_text.split(":"))[1]).strip()
 
-							if row_zero_text.startswith('datefrom'):
-								station_text = row[0]
-								parameter_details['date_from'] =( (station_text.split(":"))[1]).strip()
+								if row_zero_text.startswith('datefrom'):
+									station_text = row[0]
+									parameter_details['date_from'] =( (station_text.split(":"))[1]).strip()
 
-							if row_zero_text.startswith('dateto'):
-								station_text = row[0]
-								parameter_details['date_to'] = ((station_text.split(":"))[1]).strip()
+								if row_zero_text.startswith('dateto'):
+									station_text = row[0]
+									parameter_details['date_to'] = ((station_text.split(":"))[1]).strip()
 
-							if row_zero_text.startswith('timefrom'):
-								station_text = row[0]
-								parameter_details['time_from'] = station_text.replace("TimeFrom: ","")
+								if row_zero_text.startswith('timefrom'):
+									station_text = row[0]
+									parameter_details['time_from'] = station_text.replace("TimeFrom: ","")
 
-							if row_zero_text.startswith('timeto'):
-								station_text = row[0]
-								parameter_details['time_to'] = station_text.replace("TimeTo: ","")
+								if row_zero_text.startswith('timeto'):
+									station_text = row[0]
+									parameter_details['time_to'] = station_text.replace("TimeTo: ","")
 
-							if row_zero_text == 'parameter':
-								got_parameter_header_row = True
+								if row_zero_text == 'parameter':
+									got_parameter_header_row = True
 
 
-					print str(parameter_details)
-					parameters.insert(parameter_details)
-					print "============================================================="
+						print str(parameter_details)
+						parameters.insert(parameter_details)
+						print "============================================================="
+				else:
+					print "EXISTS"
 			else:
 				print "SKIPPING"
 
@@ -144,8 +148,8 @@ def step2_import_values():
 
 
 def main():
-	#step1_import_metadata()
-	step2_import_values()
+	step1_import_metadata()
+	#step2_import_values()
 
 if __name__ == "__main__":
 	main()
