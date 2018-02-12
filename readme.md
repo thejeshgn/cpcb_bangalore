@@ -12,6 +12,7 @@
 ## Data Version
 - 1.0 Collected for years 2015, 2016 and 2017 (Till Aug)
 - 1.1 Added Sept, Oct, Nov 2017 Data
+- 1.2 Added Dec 2017 Data, in 2018 1/jan/2018 to 11/Feb/2018 Data
 
 ## Credit
 - Credit CPCP for Data, Thejesh GN for cleaning and organizing. 
