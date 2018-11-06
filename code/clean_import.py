@@ -7,6 +7,7 @@ import dataset
 import json
 import string
 import json
+import datetime
 root_raw_data_folder = '/home/thej/code/cpcb/data/raw'
 
 
@@ -178,7 +179,7 @@ def step2_import_values():
 				json_data = json.loads(data)
 				parameters = json_data.keys()
 				for parameter in parameters:
-					parameters_data = parameters_table.find_one(falt_name=parameter)
+					parameters_data = parameters_table.find_one(alt_name=parameter)
 					parameter_short_name = parameters_data['short_name']
 					station = metadata['station']			
 					first_item = True
@@ -195,7 +196,7 @@ def step2_import_values():
 
 						#convert from yyyy-dd-mm to mm/dd/yyyy
 						from_date = str(from_datetime.split(" ")[0]).strip()
-						from_date = datetime.datetime.strptime(from_date, '%Y-%m-%d').strftime('%m/%d/%Y')
+						from_date = datetime.datetime.strptime(from_date, '%Y-%m-%d').strftime('%d/%m/%Y')
 
 						if from_time =="" or from_date == "":
 							continue
@@ -203,19 +204,18 @@ def step2_import_values():
 						data["date"]=from_date
 
 						data["station"]= station.strip()
-						data["year"]=str((str(row[3]).split("/"))[2])
-						data[parameter_short_name]=str(row[4]).strip()
+						data["year"]=str((str(from_date).split("/"))[2])
+						data[parameter_short_name]=str(data_item[1]).strip()
 
 						key = data["station"]+"_"+data["date"]+"_"+data["from_time"]
 						key = key.replace(':', '_')
 						key = key.replace('/', '_')
 						data['key'] = key.strip()
 						print str(data)
-						#data_table.upsert(data, ['key'])
+						data_table.upsert(data, ['key'])
 
 		else:
 			print "UNSUPPORTED" 	
-		break;
 		#lets commit things
 		metadata['full_csv_parsed']=1
 		metadata_table.update(metadata,['id'])
@@ -229,8 +229,8 @@ def step2_import_values():
 
 
 def main():
-	step1_import_metadata()
-	#step2_import_values()
+	#step1_import_metadata()
+	step2_import_values()
 
 if __name__ == "__main__":
 	main()
